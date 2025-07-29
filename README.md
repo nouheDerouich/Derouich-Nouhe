@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nouha Derouich</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAD&center=true&width=600&lines=💻+Web+Developer+from+Tunisia;⚡+Vue.js+%7C+Nuxt+%7C+Laravel+%7C+Next.js;🎨+UI+%26+UX+Enthusiast;🚀+Let’s+build+something+great!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFAD&center=true&vCenter=true&width=600&lines=💻+Web+Developer+from+Tunisia;⚡+Vue.js+%7C+Nuxt+%7C+Laravel+%7C+Next.js;🎨+UI+%2B+UX+Lover;🚀+Let’s+build+something+great!" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
